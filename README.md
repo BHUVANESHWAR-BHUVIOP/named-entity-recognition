@@ -151,7 +151,7 @@ model.compile(optimizer="adam",
 
 history = model.fit(
     x=X_train, y=y_train, validation_data=(X_test,y_test),
-    batch_size=50, epochs=3,
+    batch_size=32, epochs=3,
 )
 ```
 ### Metrics
