@@ -39,7 +39,7 @@ We compile the model to fit the train sets and validation sets.
 
 
 ## PROGRAM
-NAME : BHUVANESHWAR V \n
+NAME : BHUVANESHWAR V </br>
 REG N0 :212221240009
 
 ### Libraries
