@@ -1,4 +1,4 @@
-# <p align="center">Named Entity Recognition</p>
+# EX-6 Named Entity Recognition
 
 ## AIM
 
